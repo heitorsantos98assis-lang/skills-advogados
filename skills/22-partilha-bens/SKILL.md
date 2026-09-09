@@ -1,8 +1,7 @@
 ---
-name: partilha-bens
-description: Conduz partilha de bens em divórcio, dissolução de união estável ou inventário (em ação autônoma — CPC 647), com avaliação, cálculo de tornas, ITCMD/ITBI e cláusulas de proteção.
+name: 22-partilha-bens
+description: "Conduz partilha de bens em divórcio, dissolução de união estável ou inventário (em ação autônoma — CPC 647), com avaliação, cálculo de tornas, ITCMD/ITBI e cláusulas de proteção."
 allowed-tools: Read Grep Bash Edit Write
-user-invocable: true
 ---
 
 ## Quando usar

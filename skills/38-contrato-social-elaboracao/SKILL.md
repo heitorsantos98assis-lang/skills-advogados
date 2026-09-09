@@ -1,8 +1,7 @@
 ---
-name: contrato-social-elaboracao
-description: Elabora contrato social de sociedade limitada (LTDA) ou unipessoal (SLU) com cláusulas obrigatórias do CC 997, capital, administração, distribuição de lucros, retirada e cláusulas de proteção.
+name: 38-contrato-social-elaboracao
+description: "Elabora contrato social de sociedade limitada (LTDA) ou unipessoal (SLU) com cláusulas obrigatórias do CC 997, capital, administração, distribuição de lucros, retirada e cláusulas de proteção."
 allowed-tools: Read Grep Bash Edit Write
-user-invocable: true
 ---
 
 ## Quando usar

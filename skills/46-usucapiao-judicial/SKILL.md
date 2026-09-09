@@ -1,8 +1,7 @@
 ---
-name: usucapiao-judicial
-description: Estrutura ação de usucapião judicial (CC 1.238-1.244 + CPC 246-249) quando há litígio ou ausência de anuência, com citação dos confinantes, intimação das Fazendas e perícia.
+name: 46-usucapiao-judicial
+description: "Estrutura ação de usucapião judicial (CC 1.238-1.244 + CPC 246-249) quando há litígio ou ausência de anuência, com citação dos confinantes, intimação das Fazendas e perícia."
 allowed-tools: Read Grep Bash Edit Write
-user-invocable: true
 ---
 
 ## Quando usar

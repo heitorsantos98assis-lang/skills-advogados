@@ -1,8 +1,7 @@
 ---
-name: recuperacao-tributaria-judicial
-description: Estrutura ações de recuperação tributária com teses consolidadas (Tema 69, 1.067, 962, 1.135), via mandado de segurança ou ação ordinária, com pedido de compensação ou repetição.
+name: 34-recuperacao-tributaria-judicial
+description: "Estrutura ações de recuperação tributária com teses consolidadas (Tema 69, 1.067, 962, 1.135), via mandado de segurança ou ação ordinária, com pedido de compensação ou repetição."
 allowed-tools: Read Grep Bash Edit Write
-user-invocable: true
 ---
 
 ## Quando usar

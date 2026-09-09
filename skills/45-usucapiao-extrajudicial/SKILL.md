@@ -1,8 +1,7 @@
 ---
-name: usucapiao-extrajudicial
-description: Conduz usucapião extrajudicial (Lei 13.465/2017 + Provimento CNJ 65/2017) em cartório de registro de imóveis, com ata notarial, planta georreferenciada, justo título e prescrição aquisitiva.
+name: 45-usucapiao-extrajudicial
+description: "Conduz usucapião extrajudicial (Lei 13.465/2017 + Provimento CNJ 65/2017) em cartório de registro de imóveis, com ata notarial, planta georreferenciada, justo título e prescrição aquisitiva."
 allowed-tools: Read Grep Bash Edit Write
-user-invocable: true
 ---
 
 ## Quando usar

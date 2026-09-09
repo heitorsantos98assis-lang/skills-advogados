@@ -1,8 +1,7 @@
 ---
-name: embargos-declaracao
-description: Estrutura embargos de declaração (CPC 1.022-1.026) para sanar omissão, contradição, obscuridade ou erro material em decisão, sentença ou acórdão, em 5 dias úteis, com efeitos infringentes quando cabível.
+name: 05-embargos-declaracao
+description: "Estrutura embargos de declaração (CPC 1.022-1.026) para sanar omissão, contradição, obscuridade ou erro material em decisão, sentença ou acórdão, em 5 dias úteis, com efeitos infringentes quando cabível."
 allowed-tools: Read Grep Bash Edit Write
-user-invocable: true
 ---
 
 ## Quando usar

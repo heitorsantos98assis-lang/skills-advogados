@@ -1,8 +1,7 @@
 ---
-name: peticao-inicial-civel
-description: Estrutura petição inicial cível seguindo o art. 319 do CPC, com qualificação, fatos, fundamentos, pedido, valor da causa, provas e protocolização eletrônica (PJe, e-SAJ, Projudi).
+name: 01-peticao-inicial-civel
+description: "Estrutura petição inicial cível seguindo o art. 319 do CPC, com qualificação, fatos, fundamentos, pedido, valor da causa, provas e protocolização eletrônica (PJe, e-SAJ, Projudi)."
 allowed-tools: Read Grep Bash Edit Write
-user-invocable: true
 ---
 
 ## Quando usar

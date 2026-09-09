@@ -1,8 +1,7 @@
 ---
-name: acao-indenizacao-danos-materiais
-description: Estrutura ação de indenização por danos materiais (emergentes + lucros cessantes), com prova do prejuízo, nexo causal, atualização e cumulação com danos morais quando cabível.
+name: 08-acao-indenizacao-danos-materiais
+description: "Estrutura ação de indenização por danos materiais (emergentes + lucros cessantes), com prova do prejuízo, nexo causal, atualização e cumulação com danos morais quando cabível."
 allowed-tools: Read Grep Bash Edit Write
-user-invocable: true
 ---
 
 ## Quando usar

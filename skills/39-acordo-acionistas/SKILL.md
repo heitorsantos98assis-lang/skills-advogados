@@ -1,8 +1,7 @@
 ---
-name: acordo-acionistas
-description: Estrutura acordo de acionistas / quotistas (Lei 6.404/76 art. 118 + CC 1.025) com cláusulas de tag-along, drag-along, preferência, lock-up, voto em bloco, deadlock e arbitragem.
+name: 39-acordo-acionistas
+description: "Estrutura acordo de acionistas / quotistas (Lei 6.404/76 art. 118 + CC 1.025) com cláusulas de tag-along, drag-along, preferência, lock-up, voto em bloco, deadlock e arbitragem."
 allowed-tools: Read Grep Bash Edit Write
-user-invocable: true
 ---
 
 ## Quando usar

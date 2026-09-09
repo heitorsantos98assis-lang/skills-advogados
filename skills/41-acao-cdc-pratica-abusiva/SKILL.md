@@ -1,8 +1,7 @@
 ---
-name: acao-cdc-pratica-abusiva
-description: Estrutura ação contra prática abusiva ou cláusula abusiva (CDC arts. 39, 51), com pedido de nulidade, indenização, repetição em dobro e tutela inibitória.
+name: 41-acao-cdc-pratica-abusiva
+description: "Estrutura ação contra prática abusiva ou cláusula abusiva (CDC arts. 39, 51), com pedido de nulidade, indenização, repetição em dobro e tutela inibitória."
 allowed-tools: Read Grep Bash Edit Write
-user-invocable: true
 ---
 
 ## Quando usar

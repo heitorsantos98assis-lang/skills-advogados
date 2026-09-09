@@ -1,8 +1,7 @@
 ---
-name: acao-rescisoria
-description: Estrutura ação rescisória (CPC 966-975) para desconstituir sentença transitada em julgado por dolo, prevaricação, prova falsa, documento novo, violação manifesta da norma, no prazo bienal.
+name: 10-acao-rescisoria
+description: "Estrutura ação rescisória (CPC 966-975) para desconstituir sentença transitada em julgado por dolo, prevaricação, prova falsa, documento novo, violação manifesta da norma, no prazo bienal."
 allowed-tools: Read Grep Bash Edit Write
-user-invocable: true
 ---
 
 ## Quando usar

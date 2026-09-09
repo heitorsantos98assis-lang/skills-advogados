@@ -1,8 +1,7 @@
 ---
-name: acao-vicio-produto-servico
-description: Estrutura ação por vício / defeito de produto ou serviço (CDC 12-25), com prazos decadenciais, escolha do consumidor (substituição, restituição, abatimento), responsabilidade objetiva e solidariedade da cadeia.
+name: 42-acao-vicio-produto-servico
+description: "Estrutura ação por vício / defeito de produto ou serviço (CDC 12-25), com prazos decadenciais, escolha do consumidor (substituição, restituição, abatimento), responsabilidade objetiva e solidariedade da cadeia."
 allowed-tools: Read Grep Bash Edit Write
-user-invocable: true
 ---
 
 ## Quando usar

@@ -1,8 +1,7 @@
 ---
-name: alegacoes-finais-criminal
-description: Estrutura alegações finais (memoriais escritos — CPP 403 §3º) com análise da prova produzida, teses de absolvição/desclassificação, dosimetria preventiva e pedidos.
+name: 26-alegacoes-finais-criminal
+description: "Estrutura alegações finais (memoriais escritos — CPP 403 §3º) com análise da prova produzida, teses de absolvição/desclassificação, dosimetria preventiva e pedidos."
 allowed-tools: Read Grep Bash Edit Write
-user-invocable: true
 ---
 
 ## Quando usar

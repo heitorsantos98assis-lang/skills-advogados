@@ -1,8 +1,7 @@
 ---
-name: embargos-execucao-fiscal
-description: Estrutura embargos à execução fiscal (Lei 6.830/80 art. 16) com penhora válida prévia, alegação de matérias defensivas, prescrição/decadência, excesso de execução e nulidades.
+name: 32-embargos-execucao-fiscal
+description: "Estrutura embargos à execução fiscal (Lei 6.830/80 art. 16) com penhora válida prévia, alegação de matérias defensivas, prescrição/decadência, excesso de execução e nulidades."
 allowed-tools: Read Grep Bash Edit Write
-user-invocable: true
 ---
 
 ## Quando usar

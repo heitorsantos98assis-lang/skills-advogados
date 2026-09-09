@@ -1,8 +1,7 @@
 ---
-name: falencia-pedido
-description: Estrutura pedido de falência por credor (Lei 11.101 art. 94 — impontualidade, execução frustrada, atos de falência), defesa do devedor e auto-falência (art. 105).
+name: 36-falencia-pedido
+description: "Estrutura pedido de falência por credor (Lei 11.101 art. 94 — impontualidade, execução frustrada, atos de falência), defesa do devedor e auto-falência (art. 105)."
 allowed-tools: Read Grep Bash Edit Write
-user-invocable: true
 ---
 
 ## Quando usar

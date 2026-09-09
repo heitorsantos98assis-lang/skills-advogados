@@ -1,8 +1,7 @@
 ---
-name: acao-anulatoria-debito-fiscal
-description: Estrutura ação anulatória de débito fiscal (Lei 6.830/80 art. 38 + CTN) com depósito integral, prova, perícia, suspensão da exigibilidade e recurso ao tribunal.
+name: 31-acao-anulatoria-debito-fiscal
+description: "Estrutura ação anulatória de débito fiscal (Lei 6.830/80 art. 38 + CTN) com depósito integral, prova, perícia, suspensão da exigibilidade e recurso ao tribunal."
 allowed-tools: Read Grep Bash Edit Write
-user-invocable: true
 ---
 
 ## Quando usar

@@ -1,8 +1,7 @@
 ---
-name: auxilio-doenca-recurso
-description: Conduz pedido / recurso / ação judicial de auxílio por incapacidade temporária (B31) ou acidentário (B91), aposentadoria por invalidez (B32) e auxílio-acidente (B94), com perícia INSS e judicial.
+name: 51-auxilio-doenca-recurso
+description: "Conduz pedido / recurso / ação judicial de auxílio por incapacidade temporária (B31) ou acidentário (B91), aposentadoria por invalidez (B32) e auxílio-acidente (B94), com perícia INSS e judicial."
 allowed-tools: Read Grep Bash Edit Write
-user-invocable: true
 ---
 
 ## Quando usar

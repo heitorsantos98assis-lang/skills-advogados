@@ -1,8 +1,7 @@
 ---
-name: reclamacao-trabalhista-inicial
-description: Estrutura reclamação trabalhista (CLT 840 + CPC subsidiário) com pedido líquido (Lei 13.467/17), narrativa cronológica, jus postulandi vs. advogado, e cálculo discriminado das verbas.
+name: 11-reclamacao-trabalhista-inicial
+description: "Estrutura reclamação trabalhista (CLT 840 + CPC subsidiário) com pedido líquido (Lei 13.467/17), narrativa cronológica, jus postulandi vs. advogado, e cálculo discriminado das verbas."
 allowed-tools: Read Grep Bash Edit Write
-user-invocable: true
 ---
 
 ## Quando usar

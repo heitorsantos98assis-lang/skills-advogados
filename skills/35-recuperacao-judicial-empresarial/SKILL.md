@@ -1,8 +1,7 @@
 ---
-name: recuperacao-judicial-empresarial
-description: Estrutura petição inicial de recuperação judicial (Lei 11.101/2005 + alterações da Lei 14.112/2020), com plano, AGC, lista de credores, stay period e blindagem patrimonial.
+name: 35-recuperacao-judicial-empresarial
+description: "Estrutura petição inicial de recuperação judicial (Lei 11.101/2005 + alterações da Lei 14.112/2020), com plano, AGC, lista de credores, stay period e blindagem patrimonial."
 allowed-tools: Read Grep Bash Edit Write
-user-invocable: true
 ---
 
 ## Quando usar

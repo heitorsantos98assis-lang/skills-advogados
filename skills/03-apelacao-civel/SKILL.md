@@ -1,8 +1,7 @@
 ---
-name: apelacao-civel
-description: Estrutura recurso de apelação cível (CPC 1.009-1.014) com tempestividade de 15 dias, preparo, razões com vícios apontados (error in procedendo / in judicando) e contrarrazões.
+name: 03-apelacao-civel
+description: "Estrutura recurso de apelação cível (CPC 1.009-1.014) com tempestividade de 15 dias, preparo, razões com vícios apontados (error in procedendo / in judicando) e contrarrazões."
 allowed-tools: Read Grep Bash Edit Write
-user-invocable: true
 ---
 
 ## Quando usar

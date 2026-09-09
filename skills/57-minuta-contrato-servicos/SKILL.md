@@ -1,8 +1,7 @@
 ---
-name: minuta-contrato-servicos
-description: Minuta contrato de prestação de serviços com obrigações, prazo, preço, cláusula de confidencialidade, propriedade intelectual, rescisão, foro/arbitragem e LGPD.
+name: 57-minuta-contrato-servicos
+description: "Minuta contrato de prestação de serviços com obrigações, prazo, preço, cláusula de confidencialidade, propriedade intelectual, rescisão, foro/arbitragem e LGPD."
 allowed-tools: Read Grep Bash Edit Write
-user-invocable: true
 ---
 
 ## Quando usar

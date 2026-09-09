@@ -1,8 +1,7 @@
 ---
-name: excecao-pre-executividade
-description: Estrutura exceção de pré-executividade (Súmula 393 STJ) sem garantia do juízo, para matérias de ordem pública (prescrição, decadência, nulidade da CDA, ilegitimidade), a qualquer tempo.
+name: 33-excecao-pre-executividade
+description: "Estrutura exceção de pré-executividade (Súmula 393 STJ) sem garantia do juízo, para matérias de ordem pública (prescrição, decadência, nulidade da CDA, ilegitimidade), a qualquer tempo."
 allowed-tools: Read Grep Bash Edit Write
-user-invocable: true
 ---
 
 ## Quando usar

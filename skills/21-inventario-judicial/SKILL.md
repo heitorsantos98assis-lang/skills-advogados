@@ -1,8 +1,7 @@
 ---
-name: inventario-judicial
-description: Conduz inventário judicial (CPC 610-673) com nomeação de inventariante, primeiras declarações, avaliação, ITCMD, sobrepartilha e formal de partilha — adequado quando há litígio, herdeiro incapaz ou testamento.
+name: 21-inventario-judicial
+description: "Conduz inventário judicial (CPC 610-673) com nomeação de inventariante, primeiras declarações, avaliação, ITCMD, sobrepartilha e formal de partilha — adequado quando há litígio, herdeiro incapaz ou testamento."
 allowed-tools: Read Grep Bash Edit Write
-user-invocable: true
 ---
 
 ## Quando usar

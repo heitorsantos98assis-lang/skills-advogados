@@ -1,8 +1,7 @@
 ---
-name: divorcio-litigioso
-description: Conduz divórcio litigioso quando há discordância sobre patrimônio, filhos, alimentos ou existência de bens, com cumulação de pedidos e segregação eventual em ações distintas.
+name: 18-divorcio-litigioso
+description: "Conduz divórcio litigioso quando há discordância sobre patrimônio, filhos, alimentos ou existência de bens, com cumulação de pedidos e segregação eventual em ações distintas."
 allowed-tools: Read Grep Bash Edit Write
-user-invocable: true
 ---
 
 ## Quando usar

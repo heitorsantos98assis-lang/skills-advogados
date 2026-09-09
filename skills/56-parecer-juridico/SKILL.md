@@ -1,8 +1,7 @@
 ---
-name: parecer-juridico
-description: Estrutura parecer jurídico para empresas, órgãos públicos ou particulares, com fatos, fundamentação, conclusão, recomendações e ponderação de riscos.
+name: 56-parecer-juridico
+description: "Estrutura parecer jurídico para empresas, órgãos públicos ou particulares, com fatos, fundamentação, conclusão, recomendações e ponderação de riscos."
 allowed-tools: Read Grep Bash Edit Write
-user-invocable: true
 ---
 
 ## Quando usar

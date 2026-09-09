@@ -1,8 +1,7 @@
 ---
-name: uniao-estavel-reconhecimento
-description: Reconhece união estável (CC 1.723-1.727) judicial ou extrajudicialmente, com efeitos patrimoniais, sucessórios (Tema 809 STF), conversão em casamento e dissolução com partilha.
+name: 24-uniao-estavel-reconhecimento
+description: "Reconhece união estável (CC 1.723-1.727) judicial ou extrajudicialmente, com efeitos patrimoniais, sucessórios (Tema 809 STF), conversão em casamento e dissolução com partilha."
 allowed-tools: Read Grep Bash Edit Write
-user-invocable: true
 ---
 
 ## Quando usar

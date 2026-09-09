@@ -1,8 +1,7 @@
 ---
-name: dissolucao-sociedade
-description: Conduz dissolução total ou parcial de sociedade (CC 1.029-1.038, 1.077-1.085 + CPC 599-609), com apuração de haveres, retirada de sócio, exclusão judicial e liquidação.
+name: 37-dissolucao-sociedade
+description: "Conduz dissolução total ou parcial de sociedade (CC 1.029-1.038, 1.077-1.085 + CPC 599-609), com apuração de haveres, retirada de sócio, exclusão judicial e liquidação."
 allowed-tools: Read Grep Bash Edit Write
-user-invocable: true
 ---
 
 ## Quando usar

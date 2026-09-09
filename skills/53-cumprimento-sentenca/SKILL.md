@@ -1,8 +1,7 @@
 ---
-name: cumprimento-sentenca
-description: Estrutura cumprimento de sentença (CPC 513-538) com intimação para pagamento, multa de 10%, honorários de 10%, penhora SISBAJUD/RENAJUD/INFOJUD, expropriação e cumprimento de obrigação de fazer.
+name: 53-cumprimento-sentenca
+description: "Estrutura cumprimento de sentença (CPC 513-538) com intimação para pagamento, multa de 10%, honorários de 10%, penhora SISBAJUD/RENAJUD/INFOJUD, expropriação e cumprimento de obrigação de fazer."
 allowed-tools: Read Grep Bash Edit Write
-user-invocable: true
 ---
 
 ## Quando usar

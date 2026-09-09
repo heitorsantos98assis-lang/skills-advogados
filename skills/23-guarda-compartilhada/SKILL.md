@@ -1,8 +1,7 @@
 ---
-name: guarda-compartilhada
-description: Estabelece guarda compartilhada (Lei 13.058/2014) com lar de referência, plano de convivência detalhado, mediação parental e dirigentes para alienação parental.
+name: 23-guarda-compartilhada
+description: "Estabelece guarda compartilhada (Lei 13.058/2014) com lar de referência, plano de convivência detalhado, mediação parental e dirigentes para alienação parental."
 allowed-tools: Read Grep Bash Edit Write
-user-invocable: true
 ---
 
 ## Quando usar

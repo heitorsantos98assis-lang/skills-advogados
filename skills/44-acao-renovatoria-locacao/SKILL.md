@@ -1,8 +1,7 @@
 ---
-name: acao-renovatoria-locacao
-description: Estrutura ação renovatória de locação não residencial (Lei 8.245 arts. 51-57) com requisitos, prazo decadencial específico, perícia para valor do aluguel renovado e cláusulas de renovação.
+name: 44-acao-renovatoria-locacao
+description: "Estrutura ação renovatória de locação não residencial (Lei 8.245 arts. 51-57) com requisitos, prazo decadencial específico, perícia para valor do aluguel renovado e cláusulas de renovação."
 allowed-tools: Read Grep Bash Edit Write
-user-invocable: true
 ---
 
 ## Quando usar

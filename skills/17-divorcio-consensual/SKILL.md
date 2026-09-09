@@ -1,8 +1,7 @@
 ---
-name: divorcio-consensual
-description: Estrutura divórcio consensual judicial ou extrajudicial (Lei 11.441/2007), com partilha de bens, alimentos, guarda dos filhos menores, regime de bens e cláusulas de proteção.
+name: 17-divorcio-consensual
+description: "Estrutura divórcio consensual judicial ou extrajudicial (Lei 11.441/2007), com partilha de bens, alimentos, guarda dos filhos menores, regime de bens e cláusulas de proteção."
 allowed-tools: Read Grep Bash Edit Write
-user-invocable: true
 ---
 
 ## Quando usar

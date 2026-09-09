@@ -1,8 +1,7 @@
 ---
-name: acao-revisional-contrato
-description: Estrutura ação revisional de contrato bancário/financiamento/leasing/cartão de crédito com tese de juros abusivos, capitalização, cobrança de tarifas indevidas, comissão de permanência e refazimento da TR/CET.
+name: 09-acao-revisional-contrato
+description: "Estrutura ação revisional de contrato bancário/financiamento/leasing/cartão de crédito com tese de juros abusivos, capitalização, cobrança de tarifas indevidas, comissão de permanência e refazimento da TR/CET."
 allowed-tools: Read Grep Bash Edit Write
-user-invocable: true
 ---
 
 ## Quando usar

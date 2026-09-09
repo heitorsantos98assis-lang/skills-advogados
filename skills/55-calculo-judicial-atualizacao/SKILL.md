@@ -1,8 +1,7 @@
 ---
-name: calculo-judicial-atualizacao
-description: Atualiza valores judiciais (cíveis, trabalhistas, previdenciários, tributários) com índices corretos, juros, multas e honorários, considerando CC 406, Lei 8.177/91, Tema 905 STJ, Selic.
+name: 55-calculo-judicial-atualizacao
+description: "Atualiza valores judiciais (cíveis, trabalhistas, previdenciários, tributários) com índices corretos, juros, multas e honorários, considerando CC 406, Lei 8.177/91, Tema 905 STJ, Selic."
 allowed-tools: Read Grep Bash Edit Write
-user-invocable: true
 ---
 
 ## Quando usar

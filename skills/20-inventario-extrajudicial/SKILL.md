@@ -1,8 +1,7 @@
 ---
-name: inventario-extrajudicial
-description: Conduz inventário e partilha extrajudicial em cartório (Lei 11.441/2007), aplicável quando há consenso entre herdeiros maiores e capazes, com cálculo de ITCMD, monte-mor e formal de partilha.
+name: 20-inventario-extrajudicial
+description: "Conduz inventário e partilha extrajudicial em cartório (Lei 11.441/2007), aplicável quando há consenso entre herdeiros maiores e capazes, com cálculo de ITCMD, monte-mor e formal de partilha."
 allowed-tools: Read Grep Bash Edit Write
-user-invocable: true
 ---
 
 ## Quando usar

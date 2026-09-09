@@ -1,11 +1,11 @@
 # Skills para Advogados — 57 agentes operacionais
 
-Skills prontas para uso no Claude Code voltadas para advogados brasileiros. Cada skill é um agente especializado que executa uma rotina real do escritório de advocacia — petições iniciais, contestações, recursos, cálculos, pareceres, contratos — com estrutura processual, fundamentação legal, jurisprudência relevante, templates e checklist de protocolo.
+Skills prontas para uso no Codex voltadas para advogados brasileiros. Cada skill é um agente especializado que executa uma rotina real do escritório de advocacia — petições iniciais, contestações, recursos, cálculos, pareceres, contratos — com estrutura processual, fundamentação legal, jurisprudência relevante, templates e checklist de protocolo.
 
 ## Como usar
 
-1. Copie a pasta `skills/` (ou pastas individuais) para o seu projeto Claude Code, dentro de `.claude/skills/`.
-2. Em cada conversa, invoque a skill com `/nome-da-skill` ou peça em linguagem natural — o Claude Code vai carregar a skill correspondente.
+1. Copie a pasta `skills/` (ou pastas individuais) para o seu projeto Codex, dentro de `.codex/skills/`.
+2. Em cada conversa, invoque a skill com `/nome-da-skill` ou peça em linguagem natural — o Codex vai carregar a skill correspondente.
 3. Forneça os inputs pedidos (procuração, documentos, fatos, pretensão).
 4. Valide a saída com o checklist final da skill antes de protocolar.
 

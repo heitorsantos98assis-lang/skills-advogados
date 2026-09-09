@@ -1,8 +1,7 @@
 ---
-name: acao-cobranca
-description: Estrutura ação de cobrança (rito comum) ou monitória (CPC 700-702) para créditos sem força executiva, com cálculo do principal + juros + multa, prazo prescricional e estratégia de penhora.
+name: 06-acao-cobranca
+description: "Estrutura ação de cobrança (rito comum) ou monitória (CPC 700-702) para créditos sem força executiva, com cálculo do principal + juros + multa, prazo prescricional e estratégia de penhora."
 allowed-tools: Read Grep Bash Edit Write
-user-invocable: true
 ---
 
 ## Quando usar

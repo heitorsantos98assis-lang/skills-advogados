@@ -1,8 +1,7 @@
 ---
-name: acao-alimentos
-description: Estrutura ação de alimentos (Lei 5.478/68 + CPC 693-699 + CC 1.694-1.710), com fixação provisória, definitiva, exoneração e revisão, ajustada ao binômio necessidade × possibilidade.
+name: 19-acao-alimentos
+description: "Estrutura ação de alimentos (Lei 5.478/68 + CPC 693-699 + CC 1.694-1.710), com fixação provisória, definitiva, exoneração e revisão, ajustada ao binômio necessidade × possibilidade."
 allowed-tools: Read Grep Bash Edit Write
-user-invocable: true
 ---
 
 ## Quando usar

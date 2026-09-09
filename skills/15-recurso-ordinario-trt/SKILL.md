@@ -1,8 +1,7 @@
 ---
-name: recurso-ordinario-trt
-description: Estrutura recurso ordinário ao TRT contra sentença trabalhista, com tempestividade de 8 dias úteis, depósito recursal, custas, fundamentação articulada e contrarrazões.
+name: 15-recurso-ordinario-trt
+description: "Estrutura recurso ordinário ao TRT contra sentença trabalhista, com tempestividade de 8 dias úteis, depósito recursal, custas, fundamentação articulada e contrarrazões."
 allowed-tools: Read Grep Bash Edit Write
-user-invocable: true
 ---
 
 ## Quando usar

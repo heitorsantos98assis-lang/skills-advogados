@@ -1,8 +1,7 @@
 ---
-name: agravo-instrumento
-description: Estrutura agravo de instrumento (CPC 1.015-1.020) contra decisões interlocutórias da lista taxativa (com flexibilização do Tema 988 STJ), com peças obrigatórias e pedido de efeito suspensivo.
+name: 04-agravo-instrumento
+description: "Estrutura agravo de instrumento (CPC 1.015-1.020) contra decisões interlocutórias da lista taxativa (com flexibilização do Tema 988 STJ), com peças obrigatórias e pedido de efeito suspensivo."
 allowed-tools: Read Grep Bash Edit Write
-user-invocable: true
 ---
 
 ## Quando usar

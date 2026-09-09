@@ -1,8 +1,7 @@
 ---
-name: acao-indenizacao-danos-morais
-description: Estrutura ação de indenização por danos morais com responsabilidade contratual ou extracontratual, valor sugerido, jurisprudência por tipo (negativação indevida, falha bancária, extravio bagagem, perda objeto), e juros pela Súmula 54/362 STJ.
+name: 07-acao-indenizacao-danos-morais
+description: "Estrutura ação de indenização por danos morais com responsabilidade contratual ou extracontratual, valor sugerido, jurisprudência por tipo (negativação indevida, falha bancária, extravio bagagem, perda objeto), e juros pela Súmula 54/362 STJ."
 allowed-tools: Read Grep Bash Edit Write
-user-invocable: true
 ---
 
 ## Quando usar

@@ -1,8 +1,7 @@
 ---
-name: calculo-horas-extras
-description: Calcula horas extras (50%, 100%, intervalo intra-jornada, sobreaviso) com reflexos em DSR, 13º, férias e FGTS, considerando banco de horas, regime 12x36 e jornada parcial.
+name: 14-calculo-horas-extras
+description: "Calcula horas extras (50%, 100%, intervalo intra-jornada, sobreaviso) com reflexos em DSR, 13º, férias e FGTS, considerando banco de horas, regime 12x36 e jornada parcial."
 allowed-tools: Read Grep Bash Edit Write
-user-invocable: true
 ---
 
 ## Quando usar

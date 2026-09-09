@@ -1,8 +1,7 @@
 ---
-name: aposentadoria-especial
-description: Conduz aposentadoria especial (Lei 8.213 art. 57; EC 103/2019 art. 19) com tempo especial 15/20/25 anos, conversão para comum, PPP e LTCAT, e neutralização por EPI.
+name: 49-aposentadoria-especial
+description: "Conduz aposentadoria especial (Lei 8.213 art. 57; EC 103/2019 art. 19) com tempo especial 15/20/25 anos, conversão para comum, PPP e LTCAT, e neutralização por EPI."
 allowed-tools: Read Grep Bash Edit Write
-user-invocable: true
 ---
 
 ## Quando usar

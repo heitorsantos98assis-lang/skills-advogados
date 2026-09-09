@@ -1,8 +1,7 @@
 ---
-name: impugnacao-cumprimento-sentenca
-description: Estrutura impugnação ao cumprimento de sentença (CPC 525) com matérias defensivas (excesso, prescrição, pagamento, ilegitimidade) e pedido de efeito suspensivo, em 15 dias.
+name: 54-impugnacao-cumprimento-sentenca
+description: "Estrutura impugnação ao cumprimento de sentença (CPC 525) com matérias defensivas (excesso, prescrição, pagamento, ilegitimidade) e pedido de efeito suspensivo, em 15 dias."
 allowed-tools: Read Grep Bash Edit Write
-user-invocable: true
 ---
 
 ## Quando usar

@@ -1,8 +1,7 @@
 ---
-name: acao-consumidor-procon
-description: Conduz reclamação no Procon e ação no Juizado Especial Cível (Lei 9.099/95) ou rito comum, com inversão do ônus da prova, valor da condenação e cumprimento.
+name: 40-acao-consumidor-procon
+description: "Conduz reclamação no Procon e ação no Juizado Especial Cível (Lei 9.099/95) ou rito comum, com inversão do ônus da prova, valor da condenação e cumprimento."
 allowed-tools: Read Grep Bash Edit Write
-user-invocable: true
 ---
 
 ## Quando usar

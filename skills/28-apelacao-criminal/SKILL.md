@@ -1,8 +1,7 @@
 ---
-name: apelacao-criminal
-description: Estrutura apelação criminal (CPP 593) contra sentença condenatória/absolutória, em 5 dias úteis (interposição) + 8 dias (razões), com erros de fato/direito, dosimetria e regime.
+name: 28-apelacao-criminal
+description: "Estrutura apelação criminal (CPP 593) contra sentença condenatória/absolutória, em 5 dias úteis (interposição) + 8 dias (razões), com erros de fato/direito, dosimetria e regime."
 allowed-tools: Read Grep Bash Edit Write
-user-invocable: true
 ---
 
 ## Quando usar

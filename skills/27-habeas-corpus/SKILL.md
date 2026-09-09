@@ -1,8 +1,7 @@
 ---
-name: habeas-corpus
-description: Estrutura HC liberatório/preventivo (CF 5º LXVIII; CPP 647-667) com competência por hierarquia da autoridade coatora, fundamentação no constrangimento ilegal e pedido de liminar.
+name: 27-habeas-corpus
+description: "Estrutura HC liberatório/preventivo (CF 5º LXVIII; CPP 647-667) com competência por hierarquia da autoridade coatora, fundamentação no constrangimento ilegal e pedido de liminar."
 allowed-tools: Read Grep Bash Edit Write
-user-invocable: true
 ---
 
 ## Quando usar

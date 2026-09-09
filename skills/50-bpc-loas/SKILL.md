@@ -1,8 +1,7 @@
 ---
-name: bpc-loas
-description: Conduz pedido de BPC/LOAS (Lei 8.742/93 art. 20) para idoso 65+ ou pessoa com deficiência em situação de hipossuficiência (renda 1/4 SM família ou critério ampliado), com avaliação social e médica.
+name: 50-bpc-loas
+description: "Conduz pedido de BPC/LOAS (Lei 8.742/93 art. 20) para idoso 65+ ou pessoa com deficiência em situação de hipossuficiência (renda 1/4 SM família ou critério ampliado), com avaliação social e médica."
 allowed-tools: Read Grep Bash Edit Write
-user-invocable: true
 ---
 
 ## Quando usar

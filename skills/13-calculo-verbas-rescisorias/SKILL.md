@@ -1,8 +1,7 @@
 ---
-name: calculo-verbas-rescisorias
-description: Calcula verbas rescisórias por motivo (sem justa causa, justa causa, pedido de demissão, acordo, fim de contrato, aposentadoria, falecimento) com base em médias, FGTS, multa, IRRF e INSS.
+name: 13-calculo-verbas-rescisorias
+description: "Calcula verbas rescisórias por motivo (sem justa causa, justa causa, pedido de demissão, acordo, fim de contrato, aposentadoria, falecimento) com base em médias, FGTS, multa, IRRF e INSS."
 allowed-tools: Read Grep Bash Edit Write
-user-invocable: true
 ---
 
 ## Quando usar

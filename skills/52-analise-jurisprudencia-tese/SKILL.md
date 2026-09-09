@@ -1,8 +1,7 @@
 ---
-name: analise-jurisprudencia-tese
-description: Pesquisa, organiza e cita jurisprudência e súmulas para fundamentar peças, identificando precedentes vinculantes (CPC 927), repercussão geral, recursos repetitivos, IRDR e teses dominantes.
+name: 52-analise-jurisprudencia-tese
+description: "Pesquisa, organiza e cita jurisprudência e súmulas para fundamentar peças, identificando precedentes vinculantes (CPC 927), repercussão geral, recursos repetitivos, IRDR e teses dominantes."
 allowed-tools: Read Grep Bash Edit Write
-user-invocable: true
 ---
 
 ## Quando usar

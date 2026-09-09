@@ -1,8 +1,7 @@
 ---
-name: defesa-trabalhista-empregador
-description: Estrutura defesa do empregador (CLT 847) com preliminares, impugnação ponto a ponto, prova documental concentrada, rol de testemunhas, contradita e estratégia de instrução.
+name: 12-defesa-trabalhista-empregador
+description: "Estrutura defesa do empregador (CLT 847) com preliminares, impugnação ponto a ponto, prova documental concentrada, rol de testemunhas, contradita e estratégia de instrução."
 allowed-tools: Read Grep Bash Edit Write
-user-invocable: true
 ---
 
 ## Quando usar

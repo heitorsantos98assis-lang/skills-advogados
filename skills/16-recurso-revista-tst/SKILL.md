@@ -1,8 +1,7 @@
 ---
-name: recurso-revista-tst
-description: Estrutura recurso de revista ao TST com pressupostos extrínsecos (preparo, prazo) e intrínsecos (transcendência, divergência, violação literal CF/CLT/súmula), seguindo CLT 896 e IN 23/TST.
+name: 16-recurso-revista-tst
+description: "Estrutura recurso de revista ao TST com pressupostos extrínsecos (preparo, prazo) e intrínsecos (transcendência, divergência, violação literal CF/CLT/súmula), seguindo CLT 896 e IN 23/TST."
 allowed-tools: Read Grep Bash Edit Write
-user-invocable: true
 ---
 
 ## Quando usar

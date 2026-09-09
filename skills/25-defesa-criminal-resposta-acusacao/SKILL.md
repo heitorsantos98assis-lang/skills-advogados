@@ -1,8 +1,7 @@
 ---
-name: defesa-criminal-resposta-acusacao
-description: Estrutura resposta à acusação (CPP 396 e 396-A) com exceções, preliminares, mérito, rol de testemunhas e indicação de provas, no prazo de 10 dias após citação.
+name: 25-defesa-criminal-resposta-acusacao
+description: "Estrutura resposta à acusação (CPP 396 e 396-A) com exceções, preliminares, mérito, rol de testemunhas e indicação de provas, no prazo de 10 dias após citação."
 allowed-tools: Read Grep Bash Edit Write
-user-invocable: true
 ---
 
 ## Quando usar

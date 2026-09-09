@@ -1,8 +1,7 @@
 ---
-name: revisao-criminal
-description: Estrutura revisão criminal (CPP 621-631) para desconstituir condenação transitada em julgado por contrariedade ao texto expresso, prova nova, sentença em prova falsa, sem prazo decadencial.
+name: 29-revisao-criminal
+description: "Estrutura revisão criminal (CPP 621-631) para desconstituir condenação transitada em julgado por contrariedade ao texto expresso, prova nova, sentença em prova falsa, sem prazo decadencial."
 allowed-tools: Read Grep Bash Edit Write
-user-invocable: true
 ---
 
 ## Quando usar

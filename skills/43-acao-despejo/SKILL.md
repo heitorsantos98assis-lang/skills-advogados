@@ -1,8 +1,7 @@
 ---
-name: acao-despejo
-description: Estrutura ação de despejo (Lei 8.245/91 — Lei do Inquilinato) por falta de pagamento, denúncia vazia, denúncia cheia, infração contratual, com pedido de liminar e fiel depositário.
+name: 43-acao-despejo
+description: "Estrutura ação de despejo (Lei 8.245/91 — Lei do Inquilinato) por falta de pagamento, denúncia vazia, denúncia cheia, infração contratual, com pedido de liminar e fiel depositário."
 allowed-tools: Read Grep Bash Edit Write
-user-invocable: true
 ---
 
 ## Quando usar

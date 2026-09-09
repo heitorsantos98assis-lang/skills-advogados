@@ -1,8 +1,7 @@
 ---
-name: contestacao-civel
-description: Estrutura contestação cível com toda a matéria de defesa (preliminares + mérito + reconvenção quando cabível) seguindo CPC arts. 335-343, no prazo de 15 dias úteis após audiência ou citação.
+name: 02-contestacao-civel
+description: "Estrutura contestação cível com toda a matéria de defesa (preliminares + mérito + reconvenção quando cabível) seguindo CPC arts. 335-343, no prazo de 15 dias úteis após audiência ou citação."
 allowed-tools: Read Grep Bash Edit Write
-user-invocable: true
 ---
 
 ## Quando usar

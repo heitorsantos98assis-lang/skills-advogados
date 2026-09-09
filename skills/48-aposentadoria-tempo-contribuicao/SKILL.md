@@ -1,8 +1,7 @@
 ---
-name: aposentadoria-tempo-contribuicao
-description: Conduz aposentadoria por tempo de contribuição (regras de transição EC 103/2019), com cálculo do tempo, salário-de-benefício, fator previdenciário, regra do 25/30/35 anos e regras de transição.
+name: 48-aposentadoria-tempo-contribuicao
+description: "Conduz aposentadoria por tempo de contribuição (regras de transição EC 103/2019), com cálculo do tempo, salário-de-benefício, fator previdenciário, regra do 25/30/35 anos e regras de transição."
 allowed-tools: Read Grep Bash Edit Write
-user-invocable: true
 ---
 
 ## Quando usar

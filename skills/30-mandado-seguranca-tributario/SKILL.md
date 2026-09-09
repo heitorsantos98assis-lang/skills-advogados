@@ -1,8 +1,7 @@
 ---
-name: mandado-seguranca-tributario
-description: Estrutura mandado de segurança tributário (Lei 12.016/2009) preventivo ou repressivo contra ato de autoridade coatora (RFB, Sefaz, Município), com prova pré-constituída e prazo decadencial de 120 dias.
+name: 30-mandado-seguranca-tributario
+description: "Estrutura mandado de segurança tributário (Lei 12.016/2009) preventivo ou repressivo contra ato de autoridade coatora (RFB, Sefaz, Município), com prova pré-constituída e prazo decadencial de 120 dias."
 allowed-tools: Read Grep Bash Edit Write
-user-invocable: true
 ---
 
 ## Quando usar

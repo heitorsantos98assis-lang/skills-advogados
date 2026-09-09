@@ -1,8 +1,7 @@
 ---
-name: adjudicacao-compulsoria
-description: Estrutura ação de adjudicação compulsória (Lei 6.766/79 art. 16; CC 1.418) para promitente comprador receber escritura definitiva quando o vendedor recusa, com base em compromisso registrado.
+name: 47-adjudicacao-compulsoria
+description: "Estrutura ação de adjudicação compulsória (Lei 6.766/79 art. 16; CC 1.418) para promitente comprador receber escritura definitiva quando o vendedor recusa, com base em compromisso registrado."
 allowed-tools: Read Grep Bash Edit Write
-user-invocable: true
 ---
 
 ## Quando usar
