@@ -56,4 +56,4 @@ Skills prontas para uso no Claude Code voltadas para advogados brasileiros. Cada
 
 ## Licença
 
-Uso permitido para clientes ASV Digital / Bravy. Não redistribuir sem autorização.
+Uso permitido para clientes HL. Não redistribuir sem autorização.
